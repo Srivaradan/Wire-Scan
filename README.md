@@ -14,7 +14,8 @@ A lightweight, high-performance TCP port scanner built with Python. This tool us
 ## 🛠️ Usage
 1. Clone this repository or download the script.
 ```bash
-   git clone
+   git clone https://github.com/Srivaradan/Wire-Scan.git
+   cd scanner 
 ```
 
 3. Run the script using Python:
